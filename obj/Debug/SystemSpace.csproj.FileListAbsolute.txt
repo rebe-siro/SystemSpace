@@ -1,0 +1,203 @@
+C:\Users\Familia SIRO\Documents\REBE\SISTEM3\SystemSpace\SystemSpace\obj\Debug\SystemSpace.csproj.AssemblyReference.cache
+C:\Users\Familia SIRO\Documents\REBE\SISTEM3\SystemSpace\SystemSpace\obj\Debug\SystemSpace.Form1.resources
+C:\Users\Familia SIRO\Documents\REBE\SISTEM3\SystemSpace\SystemSpace\obj\Debug\SystemSpace.Menu.resources
+C:\Users\Familia SIRO\Documents\REBE\SISTEM3\SystemSpace\SystemSpace\obj\Debug\SystemSpace.Properties.Resources.resources
+C:\Users\Familia SIRO\Documents\REBE\SISTEM3\SystemSpace\SystemSpace\obj\Debug\SystemSpace.csproj.GenerateResource.cache
+C:\Users\Familia SIRO\Documents\REBE\SISTEM3\SystemSpace\SystemSpace\obj\Debug\SystemSpace.csproj.CoreCompileInputs.cache
+C:\Users\Familia SIRO\Documents\REBE\SISTEM3\SystemSpace\SystemSpace\bin\Debug\SystemSpace.exe.config
+C:\Users\Familia SIRO\Documents\REBE\SISTEM3\SystemSpace\SystemSpace\bin\Debug\SystemSpace.exe
+C:\Users\Familia SIRO\Documents\REBE\SISTEM3\SystemSpace\SystemSpace\bin\Debug\SystemSpace.pdb
+C:\Users\Familia SIRO\Documents\REBE\SISTEM3\SystemSpace\SystemSpace\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\Familia SIRO\Documents\REBE\SISTEM3\SystemSpace\SystemSpace\bin\Debug\Microsoft.Bcl.HashCode.dll
+C:\Users\Familia SIRO\Documents\REBE\SISTEM3\SystemSpace\SystemSpace\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\Familia SIRO\Documents\REBE\SISTEM3\SystemSpace\SystemSpace\bin\Debug\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\Familia SIRO\Documents\REBE\SISTEM3\SystemSpace\SystemSpace\bin\Debug\Npgsql.dll
+C:\Users\Familia SIRO\Documents\REBE\SISTEM3\SystemSpace\SystemSpace\bin\Debug\System.Buffers.dll
+C:\Users\Familia SIRO\Documents\REBE\SISTEM3\SystemSpace\SystemSpace\bin\Debug\System.Collections.Immutable.dll
+C:\Users\Familia SIRO\Documents\REBE\SISTEM3\SystemSpace\SystemSpace\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Familia SIRO\Documents\REBE\SISTEM3\SystemSpace\SystemSpace\bin\Debug\System.Memory.dll
+C:\Users\Familia SIRO\Documents\REBE\SISTEM3\SystemSpace\SystemSpace\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\Familia SIRO\Documents\REBE\SISTEM3\SystemSpace\SystemSpace\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\Familia SIRO\Documents\REBE\SISTEM3\SystemSpace\SystemSpace\bin\Debug\System.Text.Encodings.Web.dll
+C:\Users\Familia SIRO\Documents\REBE\SISTEM3\SystemSpace\SystemSpace\bin\Debug\System.Text.Json.dll
+C:\Users\Familia SIRO\Documents\REBE\SISTEM3\SystemSpace\SystemSpace\bin\Debug\System.Threading.Channels.dll
+C:\Users\Familia SIRO\Documents\REBE\SISTEM3\SystemSpace\SystemSpace\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\Familia SIRO\Documents\REBE\SISTEM3\SystemSpace\SystemSpace\bin\Debug\System.ValueTuple.dll
+C:\Users\Familia SIRO\Documents\REBE\SISTEM3\SystemSpace\SystemSpace\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\Familia SIRO\Documents\REBE\SISTEM3\SystemSpace\SystemSpace\bin\Debug\Microsoft.Bcl.HashCode.xml
+C:\Users\Familia SIRO\Documents\REBE\SISTEM3\SystemSpace\SystemSpace\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.xml
+C:\Users\Familia SIRO\Documents\REBE\SISTEM3\SystemSpace\SystemSpace\bin\Debug\Microsoft.Extensions.Logging.Abstractions.xml
+C:\Users\Familia SIRO\Documents\REBE\SISTEM3\SystemSpace\SystemSpace\bin\Debug\Npgsql.xml
+C:\Users\Familia SIRO\Documents\REBE\SISTEM3\SystemSpace\SystemSpace\bin\Debug\System.Buffers.xml
+C:\Users\Familia SIRO\Documents\REBE\SISTEM3\SystemSpace\SystemSpace\bin\Debug\System.Collections.Immutable.xml
+C:\Users\Familia SIRO\Documents\REBE\SISTEM3\SystemSpace\SystemSpace\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+C:\Users\Familia SIRO\Documents\REBE\SISTEM3\SystemSpace\SystemSpace\bin\Debug\System.Memory.xml
+C:\Users\Familia SIRO\Documents\REBE\SISTEM3\SystemSpace\SystemSpace\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\Familia SIRO\Documents\REBE\SISTEM3\SystemSpace\SystemSpace\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\Familia SIRO\Documents\REBE\SISTEM3\SystemSpace\SystemSpace\bin\Debug\System.Text.Encodings.Web.xml
+C:\Users\Familia SIRO\Documents\REBE\SISTEM3\SystemSpace\SystemSpace\bin\Debug\System.Text.Json.xml
+C:\Users\Familia SIRO\Documents\REBE\SISTEM3\SystemSpace\SystemSpace\bin\Debug\System.Threading.Channels.xml
+C:\Users\Familia SIRO\Documents\REBE\SISTEM3\SystemSpace\SystemSpace\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\Familia SIRO\Documents\REBE\SISTEM3\SystemSpace\SystemSpace\bin\Debug\System.ValueTuple.xml
+C:\Users\Familia SIRO\Documents\REBE\SISTEM3\SystemSpace\SystemSpace\obj\Debug\SystemSp.21B6AAD6.Up2Date
+C:\Users\Familia SIRO\Documents\REBE\SISTEM3\SystemSpace\SystemSpace\obj\Debug\SystemSpace.exe
+C:\Users\Familia SIRO\Documents\REBE\SISTEM3\SystemSpace\SystemSpace\obj\Debug\SystemSpace.pdb
+C:\Users\Familia SIRO\Documents\REBE\SISTEM3\SystemSpace\SystemSpace\obj\Debug\SystemSpace.EspacioFisico.RegistrarEspacioFisico.resources
+C:\Users\Familia SIRO\Documents\REBE\SISTEM3\SystemSpace\SystemSpace\obj\Debug\SystemSpace.EspacioFisico.ListaEspaciosFisicos.resources
+C:\Users\Familia SIRO\Documents\REBE\SISTEM3\SystemSpace\SystemSpace\bin\Debug\BouncyCastle.Cryptography.dll
+C:\Users\Familia SIRO\Documents\REBE\SISTEM3\SystemSpace\SystemSpace\bin\Debug\Google.Protobuf.dll
+C:\Users\Familia SIRO\Documents\REBE\SISTEM3\SystemSpace\SystemSpace\bin\Debug\K4os.Compression.LZ4.dll
+C:\Users\Familia SIRO\Documents\REBE\SISTEM3\SystemSpace\SystemSpace\bin\Debug\K4os.Compression.LZ4.Streams.dll
+C:\Users\Familia SIRO\Documents\REBE\SISTEM3\SystemSpace\SystemSpace\bin\Debug\K4os.Hash.xxHash.dll
+C:\Users\Familia SIRO\Documents\REBE\SISTEM3\SystemSpace\SystemSpace\bin\Debug\MySql.Data.dll
+C:\Users\Familia SIRO\Documents\REBE\SISTEM3\SystemSpace\SystemSpace\bin\Debug\System.Configuration.ConfigurationManager.dll
+C:\Users\Familia SIRO\Documents\REBE\SISTEM3\SystemSpace\SystemSpace\bin\Debug\System.IO.Pipelines.dll
+C:\Users\Familia SIRO\Documents\REBE\SISTEM3\SystemSpace\SystemSpace\bin\Debug\ZstdSharp.dll
+C:\Users\Familia SIRO\Documents\REBE\SISTEM3\SystemSpace\SystemSpace\bin\Debug\BouncyCastle.Cryptography.xml
+C:\Users\Familia SIRO\Documents\REBE\SISTEM3\SystemSpace\SystemSpace\bin\Debug\Google.Protobuf.pdb
+C:\Users\Familia SIRO\Documents\REBE\SISTEM3\SystemSpace\SystemSpace\bin\Debug\Google.Protobuf.xml
+C:\Users\Familia SIRO\Documents\REBE\SISTEM3\SystemSpace\SystemSpace\bin\Debug\K4os.Compression.LZ4.xml
+C:\Users\Familia SIRO\Documents\REBE\SISTEM3\SystemSpace\SystemSpace\bin\Debug\K4os.Compression.LZ4.Streams.xml
+C:\Users\Familia SIRO\Documents\REBE\SISTEM3\SystemSpace\SystemSpace\bin\Debug\K4os.Hash.xxHash.xml
+C:\Users\Familia SIRO\Documents\REBE\SISTEM3\SystemSpace\SystemSpace\bin\Debug\MySql.Data.xml
+C:\Users\Familia SIRO\Documents\REBE\SISTEM3\SystemSpace\SystemSpace\bin\Debug\System.Configuration.ConfigurationManager.xml
+C:\Users\Familia SIRO\Documents\REBE\SISTEM3\SystemSpace\SystemSpace\bin\Debug\System.IO.Pipelines.xml
+C:\Users\Familia SIRO\Documents\REBE\SISTEM3\SystemSpace\SystemSpace\obj\Debug\SystemSpace.Empleado.RegistrarEmpleado.resources
+C:\Users\Familia SIRO\Documents\REBE\SISTEM3\SystemSpace\SystemSpace\obj\Debug\SystemSpace.Empleado.ListaEmpleado.resources
+C:\Users\Familia SIRO\Documents\REBE\SISTEM3\SystemSpace\SystemSpace\obj\Debug\SystemSpace.AsignacionTarea.AgregarInventario.resources
+C:\Users\Familia SIRO\Documents\REBE\SISTEM3\SystemSpace\SystemSpace\obj\Debug\SystemSpace.AsignacionTarea.ListaInventario.resources
+C:\Users\Familia SIRO\Documents\REBE\SISTEM3\SystemSpace\SystemSpace\obj\Debug\SystemSpace.Tarea.AgendarTarea.resources
+C:\Users\Familia SIRO\Documents\REBE\SISTEM3\SystemSpace\SystemSpace\obj\Debug\SystemSpace.Tarea.RegistrarServicios.resources
+C:\Users\Familia SIRO\Documents\REBE\SISTEM3\SystemSpace\SystemSpace\obj\Debug\SystemSpace.Frames.Services.resources
+C:\Users\Familia SIRO\Documents\REBE\SystemSpace\SystemSpace\obj\Debug\SystemSpace.csproj.AssemblyReference.cache
+C:\Users\Familia SIRO\Documents\REBE\SystemSpace\SystemSpace\obj\Debug\SystemSpace.AsignacionTarea.AgregarInventario.resources
+C:\Users\Familia SIRO\Documents\REBE\SystemSpace\SystemSpace\obj\Debug\SystemSpace.AsignacionTarea.ListaInventario.resources
+C:\Users\Familia SIRO\Documents\REBE\SystemSpace\SystemSpace\obj\Debug\SystemSpace.Empleado.ListaEmpleado.resources
+C:\Users\Familia SIRO\Documents\REBE\SystemSpace\SystemSpace\obj\Debug\SystemSpace.Empleado.RegistrarEmpleado.resources
+C:\Users\Familia SIRO\Documents\REBE\SystemSpace\SystemSpace\obj\Debug\SystemSpace.EspacioFisico.ListaEspaciosFisicos.resources
+C:\Users\Familia SIRO\Documents\REBE\SystemSpace\SystemSpace\obj\Debug\SystemSpace.EspacioFisico.RegistrarEspacioFisico.resources
+C:\Users\Familia SIRO\Documents\REBE\SystemSpace\SystemSpace\obj\Debug\SystemSpace.Form1.resources
+C:\Users\Familia SIRO\Documents\REBE\SystemSpace\SystemSpace\obj\Debug\SystemSpace.Menu.resources
+C:\Users\Familia SIRO\Documents\REBE\SystemSpace\SystemSpace\obj\Debug\SystemSpace.Properties.Resources.resources
+C:\Users\Familia SIRO\Documents\REBE\SystemSpace\SystemSpace\obj\Debug\SystemSpace.Tarea.AgendarTarea.resources
+C:\Users\Familia SIRO\Documents\REBE\SystemSpace\SystemSpace\obj\Debug\SystemSpace.Tarea.RegistrarServicios.resources
+C:\Users\Familia SIRO\Documents\REBE\SystemSpace\SystemSpace\obj\Debug\SystemSpace.csproj.GenerateResource.cache
+C:\Users\Familia SIRO\Documents\REBE\SystemSpace\SystemSpace\obj\Debug\SystemSpace.csproj.CoreCompileInputs.cache
+C:\Users\Familia SIRO\Documents\REBE\SystemSpace\SystemSpace\obj\Debug\SystemSpace.exe
+C:\Users\Familia SIRO\Documents\REBE\SystemSpace\SystemSpace\obj\Debug\SystemSpace.pdb
+C:\Users\Familia SIRO\Documents\REBE\SystemSpace\SystemSpace\bin\Debug\SystemSpace.exe.config
+C:\Users\Familia SIRO\Documents\REBE\SystemSpace\SystemSpace\bin\Debug\SystemSpace.exe
+C:\Users\Familia SIRO\Documents\REBE\SystemSpace\SystemSpace\bin\Debug\SystemSpace.pdb
+C:\Users\Familia SIRO\Documents\REBE\SystemSpace\SystemSpace\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\Familia SIRO\Documents\REBE\SystemSpace\SystemSpace\bin\Debug\Microsoft.Bcl.HashCode.dll
+C:\Users\Familia SIRO\Documents\REBE\SystemSpace\SystemSpace\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\Familia SIRO\Documents\REBE\SystemSpace\SystemSpace\bin\Debug\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\Familia SIRO\Documents\REBE\SystemSpace\SystemSpace\bin\Debug\System.Buffers.dll
+C:\Users\Familia SIRO\Documents\REBE\SystemSpace\SystemSpace\bin\Debug\System.Collections.Immutable.dll
+C:\Users\Familia SIRO\Documents\REBE\SystemSpace\SystemSpace\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Familia SIRO\Documents\REBE\SystemSpace\SystemSpace\bin\Debug\System.Memory.dll
+C:\Users\Familia SIRO\Documents\REBE\SystemSpace\SystemSpace\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\Familia SIRO\Documents\REBE\SystemSpace\SystemSpace\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\Familia SIRO\Documents\REBE\SystemSpace\SystemSpace\bin\Debug\System.Text.Encodings.Web.dll
+C:\Users\Familia SIRO\Documents\REBE\SystemSpace\SystemSpace\bin\Debug\System.Threading.Channels.dll
+C:\Users\Familia SIRO\Documents\REBE\SystemSpace\SystemSpace\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\Familia SIRO\Documents\REBE\SystemSpace\SystemSpace\bin\Debug\System.ValueTuple.dll
+C:\Users\Familia SIRO\Documents\REBE\SystemSpace\SystemSpace\bin\Debug\BouncyCastle.Cryptography.xml
+C:\Users\Familia SIRO\Documents\REBE\SystemSpace\SystemSpace\bin\Debug\Google.Protobuf.pdb
+C:\Users\Familia SIRO\Documents\REBE\SystemSpace\SystemSpace\bin\Debug\Google.Protobuf.xml
+C:\Users\Familia SIRO\Documents\REBE\SystemSpace\SystemSpace\bin\Debug\K4os.Compression.LZ4.xml
+C:\Users\Familia SIRO\Documents\REBE\SystemSpace\SystemSpace\bin\Debug\K4os.Compression.LZ4.Streams.xml
+C:\Users\Familia SIRO\Documents\REBE\SystemSpace\SystemSpace\bin\Debug\K4os.Hash.xxHash.xml
+C:\Users\Familia SIRO\Documents\REBE\SystemSpace\SystemSpace\bin\Debug\MySql.Data.xml
+C:\Users\Familia SIRO\Documents\REBE\SystemSpace\SystemSpace\bin\Debug\Npgsql.xml
+C:\Users\Familia SIRO\Documents\REBE\SystemSpace\SystemSpace\bin\Debug\System.Configuration.ConfigurationManager.xml
+C:\Users\Familia SIRO\Documents\REBE\SystemSpace\SystemSpace\bin\Debug\System.IO.Pipelines.xml
+C:\Users\Familia SIRO\Documents\REBE\SystemSpace\SystemSpace\bin\Debug\System.Text.Json.xml
+C:\Users\Familia SIRO\Documents\REBE\SystemSpace\SystemSpace\obj\Debug\SystemSp.21B6AAD6.Up2Date
+C:\Users\Familia SIRO\Documents\REBE\SystemSpace\SystemSpace\obj\Debug\SystemSpace.Tarea.ListaServicios.resources
+C:\Users\Familia SIRO\Documents\REBE\SystemSpace\SystemSpace\obj\Debug\SystemSpace.Tarea.CronogramaTarea.resources
+C:\Users\Familia SIRO\Documents\REBE\SystemSpace\SystemSpace\obj\Debug\SystemSpace.Reportes.Reports.resources
+C:\Users\Familia SIRO\Documents\REBE\SystemSpace\SystemSpace\obj\Debug\SystemSpace.Usuario.RegistrarUsuario.resources
+C:\Users\Familia SIRO\Documents\REBE\SystemSpace\SystemSpace\obj\Debug\SystemSpace.Usuario.ListaUsuario.resources
+C:\Users\Familia SIRO\Documents\REBE\SystemSpace\SystemSpace\obj\Debug\SystemSpace.Organizacion.resources
+C:\Users\Familia SIRO\Documents\REBE\SystemSpace\SystemSpace\obj\Debug\SystemSpace.Empleado.ListaRechazo.resources
+C:\Users\Familia SIRO\Documents\REBE\SystemSpace\SystemSpace\bin\Debug\BouncyCastle.Cryptography.dll
+C:\Users\Familia SIRO\Documents\REBE\SystemSpace\SystemSpace\bin\Debug\Google.Protobuf.dll
+C:\Users\Familia SIRO\Documents\REBE\SystemSpace\SystemSpace\bin\Debug\K4os.Compression.LZ4.dll
+C:\Users\Familia SIRO\Documents\REBE\SystemSpace\SystemSpace\bin\Debug\K4os.Compression.LZ4.Streams.dll
+C:\Users\Familia SIRO\Documents\REBE\SystemSpace\SystemSpace\bin\Debug\K4os.Hash.xxHash.dll
+C:\Users\Familia SIRO\Documents\REBE\SystemSpace\SystemSpace\bin\Debug\MySql.Data.dll
+C:\Users\Familia SIRO\Documents\REBE\SystemSpace\SystemSpace\bin\Debug\Npgsql.dll
+C:\Users\Familia SIRO\Documents\REBE\SystemSpace\SystemSpace\bin\Debug\System.Configuration.ConfigurationManager.dll
+C:\Users\Familia SIRO\Documents\REBE\SystemSpace\SystemSpace\bin\Debug\System.IO.Pipelines.dll
+C:\Users\Familia SIRO\Documents\REBE\SystemSpace\SystemSpace\bin\Debug\System.Text.Json.dll
+C:\Users\Familia SIRO\Documents\REBE\SystemSpace\SystemSpace\bin\Debug\ZstdSharp.dll
+C:\Users\Familia SIRO\Documents\REBE\SystemSpace\SystemSpace\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\Familia SIRO\Documents\REBE\SystemSpace\SystemSpace\bin\Debug\Microsoft.Bcl.HashCode.xml
+C:\Users\Familia SIRO\Documents\REBE\SystemSpace\SystemSpace\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.xml
+C:\Users\Familia SIRO\Documents\REBE\SystemSpace\SystemSpace\bin\Debug\Microsoft.Extensions.Logging.Abstractions.xml
+C:\Users\Familia SIRO\Documents\REBE\SystemSpace\SystemSpace\bin\Debug\System.Buffers.xml
+C:\Users\Familia SIRO\Documents\REBE\SystemSpace\SystemSpace\bin\Debug\System.Collections.Immutable.xml
+C:\Users\Familia SIRO\Documents\REBE\SystemSpace\SystemSpace\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+C:\Users\Familia SIRO\Documents\REBE\SystemSpace\SystemSpace\bin\Debug\System.Memory.xml
+C:\Users\Familia SIRO\Documents\REBE\SystemSpace\SystemSpace\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\Familia SIRO\Documents\REBE\SystemSpace\SystemSpace\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\Familia SIRO\Documents\REBE\SystemSpace\SystemSpace\bin\Debug\System.Text.Encodings.Web.xml
+C:\Users\Familia SIRO\Documents\REBE\SystemSpace\SystemSpace\bin\Debug\System.Threading.Channels.xml
+C:\Users\Familia SIRO\Documents\REBE\SystemSpace\SystemSpace\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\Familia SIRO\Documents\REBE\SystemSpace\SystemSpace\bin\Debug\System.ValueTuple.xml
+C:\Users\Familia SIRO\Documents\REBE\SystemSpace\SystemSpace\obj\Debug\SystemSpace.Empleado.RegistrarRechazo.resources
+C:\Users\Familia SIRO\Documents\REBE\SISTEM3\PROYECTO\SYSTEM SPACE\bin\Debug\SystemSpace.exe.config
+C:\Users\Familia SIRO\Documents\REBE\SISTEM3\PROYECTO\SYSTEM SPACE\bin\Debug\SystemSpace.exe
+C:\Users\Familia SIRO\Documents\REBE\SISTEM3\PROYECTO\SYSTEM SPACE\bin\Debug\SystemSpace.pdb
+C:\Users\Familia SIRO\Documents\REBE\SISTEM3\PROYECTO\SYSTEM SPACE\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\Familia SIRO\Documents\REBE\SISTEM3\PROYECTO\SYSTEM SPACE\bin\Debug\Microsoft.Bcl.HashCode.dll
+C:\Users\Familia SIRO\Documents\REBE\SISTEM3\PROYECTO\SYSTEM SPACE\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\Familia SIRO\Documents\REBE\SISTEM3\PROYECTO\SYSTEM SPACE\bin\Debug\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\Familia SIRO\Documents\REBE\SISTEM3\PROYECTO\SYSTEM SPACE\bin\Debug\System.Buffers.dll
+C:\Users\Familia SIRO\Documents\REBE\SISTEM3\PROYECTO\SYSTEM SPACE\bin\Debug\System.Collections.Immutable.dll
+C:\Users\Familia SIRO\Documents\REBE\SISTEM3\PROYECTO\SYSTEM SPACE\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Familia SIRO\Documents\REBE\SISTEM3\PROYECTO\SYSTEM SPACE\bin\Debug\System.Memory.dll
+C:\Users\Familia SIRO\Documents\REBE\SISTEM3\PROYECTO\SYSTEM SPACE\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\Familia SIRO\Documents\REBE\SISTEM3\PROYECTO\SYSTEM SPACE\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\Familia SIRO\Documents\REBE\SISTEM3\PROYECTO\SYSTEM SPACE\bin\Debug\System.Text.Encodings.Web.dll
+C:\Users\Familia SIRO\Documents\REBE\SISTEM3\PROYECTO\SYSTEM SPACE\bin\Debug\System.Threading.Channels.dll
+C:\Users\Familia SIRO\Documents\REBE\SISTEM3\PROYECTO\SYSTEM SPACE\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\Familia SIRO\Documents\REBE\SISTEM3\PROYECTO\SYSTEM SPACE\bin\Debug\System.ValueTuple.dll
+C:\Users\Familia SIRO\Documents\REBE\SISTEM3\PROYECTO\SYSTEM SPACE\bin\Debug\BouncyCastle.Cryptography.xml
+C:\Users\Familia SIRO\Documents\REBE\SISTEM3\PROYECTO\SYSTEM SPACE\bin\Debug\Google.Protobuf.pdb
+C:\Users\Familia SIRO\Documents\REBE\SISTEM3\PROYECTO\SYSTEM SPACE\bin\Debug\Google.Protobuf.xml
+C:\Users\Familia SIRO\Documents\REBE\SISTEM3\PROYECTO\SYSTEM SPACE\bin\Debug\K4os.Compression.LZ4.xml
+C:\Users\Familia SIRO\Documents\REBE\SISTEM3\PROYECTO\SYSTEM SPACE\bin\Debug\K4os.Compression.LZ4.Streams.xml
+C:\Users\Familia SIRO\Documents\REBE\SISTEM3\PROYECTO\SYSTEM SPACE\bin\Debug\K4os.Hash.xxHash.xml
+C:\Users\Familia SIRO\Documents\REBE\SISTEM3\PROYECTO\SYSTEM SPACE\bin\Debug\MySql.Data.xml
+C:\Users\Familia SIRO\Documents\REBE\SISTEM3\PROYECTO\SYSTEM SPACE\bin\Debug\Npgsql.xml
+C:\Users\Familia SIRO\Documents\REBE\SISTEM3\PROYECTO\SYSTEM SPACE\bin\Debug\System.Configuration.ConfigurationManager.xml
+C:\Users\Familia SIRO\Documents\REBE\SISTEM3\PROYECTO\SYSTEM SPACE\bin\Debug\System.IO.Pipelines.xml
+C:\Users\Familia SIRO\Documents\REBE\SISTEM3\PROYECTO\SYSTEM SPACE\bin\Debug\System.Text.Json.xml
+C:\Users\Familia SIRO\Documents\REBE\SISTEM3\PROYECTO\SYSTEM SPACE\obj\Debug\SystemSpace.csproj.AssemblyReference.cache
+C:\Users\Familia SIRO\Documents\REBE\SISTEM3\PROYECTO\SYSTEM SPACE\obj\Debug\SystemSpace.Empleado.RegistrarRechazo.resources
+C:\Users\Familia SIRO\Documents\REBE\SISTEM3\PROYECTO\SYSTEM SPACE\obj\Debug\SystemSpace.Empleado.ListaRechazo.resources
+C:\Users\Familia SIRO\Documents\REBE\SISTEM3\PROYECTO\SYSTEM SPACE\obj\Debug\SystemSpace.AsignacionTarea.AgregarInventario.resources
+C:\Users\Familia SIRO\Documents\REBE\SISTEM3\PROYECTO\SYSTEM SPACE\obj\Debug\SystemSpace.AsignacionTarea.ListaInventario.resources
+C:\Users\Familia SIRO\Documents\REBE\SISTEM3\PROYECTO\SYSTEM SPACE\obj\Debug\SystemSpace.Empleado.ListaEmpleado.resources
+C:\Users\Familia SIRO\Documents\REBE\SISTEM3\PROYECTO\SYSTEM SPACE\obj\Debug\SystemSpace.Empleado.RegistrarEmpleado.resources
+C:\Users\Familia SIRO\Documents\REBE\SISTEM3\PROYECTO\SYSTEM SPACE\obj\Debug\SystemSpace.EspacioFisico.ListaEspaciosFisicos.resources
+C:\Users\Familia SIRO\Documents\REBE\SISTEM3\PROYECTO\SYSTEM SPACE\obj\Debug\SystemSpace.EspacioFisico.RegistrarEspacioFisico.resources
+C:\Users\Familia SIRO\Documents\REBE\SISTEM3\PROYECTO\SYSTEM SPACE\obj\Debug\SystemSpace.Form1.resources
+C:\Users\Familia SIRO\Documents\REBE\SISTEM3\PROYECTO\SYSTEM SPACE\obj\Debug\SystemSpace.Menu.resources
+C:\Users\Familia SIRO\Documents\REBE\SISTEM3\PROYECTO\SYSTEM SPACE\obj\Debug\SystemSpace.Organizacion.resources
+C:\Users\Familia SIRO\Documents\REBE\SISTEM3\PROYECTO\SYSTEM SPACE\obj\Debug\SystemSpace.Properties.Resources.resources
+C:\Users\Familia SIRO\Documents\REBE\SISTEM3\PROYECTO\SYSTEM SPACE\obj\Debug\SystemSpace.Reportes.Reports.resources
+C:\Users\Familia SIRO\Documents\REBE\SISTEM3\PROYECTO\SYSTEM SPACE\obj\Debug\SystemSpace.Tarea.AgendarTarea.resources
+C:\Users\Familia SIRO\Documents\REBE\SISTEM3\PROYECTO\SYSTEM SPACE\obj\Debug\SystemSpace.Tarea.CronogramaTarea.resources
+C:\Users\Familia SIRO\Documents\REBE\SISTEM3\PROYECTO\SYSTEM SPACE\obj\Debug\SystemSpace.Tarea.ListaServicios.resources
+C:\Users\Familia SIRO\Documents\REBE\SISTEM3\PROYECTO\SYSTEM SPACE\obj\Debug\SystemSpace.Tarea.RegistrarServicios.resources
+C:\Users\Familia SIRO\Documents\REBE\SISTEM3\PROYECTO\SYSTEM SPACE\obj\Debug\SystemSpace.Usuario.ListaUsuario.resources
+C:\Users\Familia SIRO\Documents\REBE\SISTEM3\PROYECTO\SYSTEM SPACE\obj\Debug\SystemSpace.Usuario.RegistrarUsuario.resources
+C:\Users\Familia SIRO\Documents\REBE\SISTEM3\PROYECTO\SYSTEM SPACE\obj\Debug\SystemSpace.csproj.GenerateResource.cache
+C:\Users\Familia SIRO\Documents\REBE\SISTEM3\PROYECTO\SYSTEM SPACE\obj\Debug\SystemSpace.csproj.CoreCompileInputs.cache
+C:\Users\Familia SIRO\Documents\REBE\SISTEM3\PROYECTO\SYSTEM SPACE\obj\Debug\SystemSp.21B6AAD6.Up2Date
+C:\Users\Familia SIRO\Documents\REBE\SISTEM3\PROYECTO\SYSTEM SPACE\obj\Debug\SystemSpace.exe
+C:\Users\Familia SIRO\Documents\REBE\SISTEM3\PROYECTO\SYSTEM SPACE\obj\Debug\SystemSpace.pdb
+C:\Users\Familia SIRO\Documents\REBE\SISTEM3\PROYECTO\SYSTEM SPACE\obj\Debug\SystemSpace.Tarea.FormSelectEmpleado.resources
